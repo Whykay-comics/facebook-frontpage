@@ -22,7 +22,7 @@ body{
 }
 .text{
     font-weight:normal;
-    font-family:SFProDisplay-Regular, Helvetica, Arial, sans-serif; ;
+    font-family:SFProDisplay-Regular, Helvetica, Arial, sans-serif;
    
     
 }
@@ -31,17 +31,21 @@ p{
 }
 .right{
     background-color: white;
-margin-top: 100px;
-justify-content: center;
-text-align: center;
-border-radius: 20px;
+    margin-top: 100px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
 
    
 }
 form{
     padding: 20px;
-    width: 80px;
+    /* width: 80px; */
     
+}
+
+input{
+    width: 80px;
 }
 .create{
     background-color: blueviolet;
