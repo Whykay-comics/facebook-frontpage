@@ -4,7 +4,7 @@
 }
 body{
     background-color: #F0F2F5;
-    
+    font-family: 'Courier New', Courier, monospace;
 }
 .container{
     display: flex;
@@ -39,7 +39,7 @@ form{
 }
 .create{
     background-color: blueviolet;
-  justify-items: ;
+  /* justify-items: ; */
    
 }
 
