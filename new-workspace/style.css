@@ -5,6 +5,8 @@
 body{
     background-color: #F0F2F5;
     font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 20px;
+    
 }
 .container{
     display: flex;
